@@ -4,6 +4,7 @@ import { ref, watch } from "vue";
 import { getCache, setCache } from "@/utils";
 
 const request = axios.create({
+  baseURL: "/api",
   timeout: 1000 * 15,
 });
 
