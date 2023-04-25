@@ -29,7 +29,9 @@ export interface VideoItem {
 export const useVideoInfo = defineStore("video-info", () => {
   const data = ref<VideoInfo[]>([]);
   const req = async () => {
-    const res = (await request.get("/list").catch(() => [])) as any;
+    const { data: d } = await request.get("/list");
+    const res = d || [];
+
     data.value = res;
     return res;
   };
@@ -49,7 +51,8 @@ export const useVideoItems = defineStore("video", () => {
   let _name = "";
   const req = async (name: string) => {
     _name = name;
-    const res = (await request.post("/items", { name })) as VideoItem[];
+    const { data: d } = await request.post("/items", { name });
+    const res: VideoItem[] = d || [];
     const cache = getCache(name, Array.from({ length: res.length }, defaults));
 
     for (let i = 0; i < cache.length; i++) {
@@ -81,7 +84,7 @@ export const useVideoItems = defineStore("video", () => {
   watch(
     () => select.value.progress,
     (nv, ov) => {
-      if (nv.index != ov.index && Date.now() - prevCacheTime < 1000 * 10) return;
+      if (nv != ov && Date.now() - prevCacheTime < 1000 * 10) return;
       prevCacheTime = Date.now();
 
       setCache(_name + "-select", select.value);
