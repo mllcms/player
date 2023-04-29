@@ -1,0 +1,13 @@
+[AXUM] 2023-04-26 02:59:51 |200|    7ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-26 02:59:51 |200|    4ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-26 02:59:51 |200|   24ms |       127.0.0.1 | GET   /assets/index-7448ed33.js
+[AXUM] 2023-04-26 02:59:51 |200|    4ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-26 02:59:51 |200|    8ms |       127.0.0.1 | GET   /assets/list-4c149ee3.js
+[AXUM] 2023-04-26 02:59:51 |200|   18ms |       127.0.0.1 | GET   /assets/video-3feb1671.js
+[AXUM] 2023-04-26 02:59:51 |200|    5ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-26 02:59:51 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-26 02:59:51 |200|    4ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-26 02:59:51 |200|    7ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-26 02:59:51 |200|    7ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-26 02:59:51 |200|    8ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-26 02:59:51 |200|    8ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png

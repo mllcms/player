@@ -10,7 +10,6 @@ use once_cell::sync::Lazy;
 use serde::{Deserialize, Serialize};
 
 pub static CONFIG: Lazy<Config> = Lazy::new(|| Config::new());
-
 #[derive(Debug, Clone, Deserialize)]
 pub struct Config {
     pub host: String,

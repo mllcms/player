@@ -5,6 +5,7 @@ use axum::{
     routing::{get, post},
     Json, Router,
 };
+use ip_addrs::echo_ip_addrs;
 use player_web::{exit_fmt, VideoItem, CONFIG};
 use res::Res;
 use serde::{Deserialize, Serialize};
@@ -13,6 +14,7 @@ use tower_http::services::{ServeDir, ServeFile};
 
 use crate::middleware::logger::logger;
 
+mod ip_addrs;
 mod middleware;
 mod res;
 
@@ -31,7 +33,7 @@ async fn main() {
 
     let addr: SocketAddr = format!("{}:{}", CONFIG.host, CONFIG.port).parse().unwrap();
 
-    println!("http://{addr}");
+    echo_ip_addrs(&addr);
 
     axum::Server::bind(&addr)
         .serve(app.into_make_service_with_connect_info::<SocketAddr>())

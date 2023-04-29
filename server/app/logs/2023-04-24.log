@@ -274,3 +274,1117 @@
 [AXUM] 2023-04-24 01:48:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-1 HTTP协议特点.mp4
 [AXUM] 2023-04-24 01:50:11 |307|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议 -> /大话HTTP协议/
 [AXUM] 2023-04-24 01:50:11 |404|    0ms |       127.0.0.1 | GET   /大话HTTP协议/
+[AXUM] 2023-04-24 01:57:10 |200|    1ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /assets/index-4d79a302.js
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /assets/list-2d2bd903.js
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /assets/video-6bd9935a.js
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 01:57:10 |200|    1ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 01:57:10 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 01:57:10 |200|   10ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 01:57:19 |200|    0ms |       127.0.0.1 | GET   /assets/video-1988286b.js
+[AXUM] 2023-04-24 01:57:19 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 01:57:19 |200|   47ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 01:57:19 |206|    8ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 01:57:19 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 01:57:22 |206|    9ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/2、课程体系总览-学习建议_02_(理解)前端知识体系介绍.mp4
+[AXUM] 2023-04-24 01:57:26 |206|    8ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/3、课程体系总览-学习建议_03_(理解)前端课程大纲和薪资标准.mp4
+[AXUM] 2023-04-24 01:57:28 |206|    9ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/5、课程体系总览-学习建议_05_(掌握)学习方法-学习建议.mp4
+[AXUM] 2023-04-24 01:57:34 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/2、课程体系总览-学习建议_02_(理解)前端知识体系介绍.mp4
+[AXUM] 2023-04-24 01:57:38 |206|    8ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/1、课程体系总览-学习建议_01_(了解)今日内容概述.mp4
+[AXUM] 2023-04-24 01:57:41 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 01:57:42 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 01:57:42 |206|    8ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 01:57:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 01:57:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 01:57:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 01:57:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 01:57:45 |206|    7ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 01:57:45 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 01:57:45 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 01:57:45 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 01:57:50 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 01:57:50 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 01:57:50 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 01:57:50 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 01:57:50 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 01:57:50 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 01:57:53 |200|   47ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 01:57:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 01:57:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /assets/index-4d79a302.js
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /assets/video-1988286b.js
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /assets/video-6bd9935a.js
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 01:57:57 |200|   54ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 01:57:57 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /assets/index-4d79a302.js
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /assets/video-1988286b.js
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /assets/video-6bd9935a.js
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 01:58:00 |200|   48ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 01:58:00 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /assets/list-2d2bd903.js
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 01:58:03 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /assets/index-4d79a302.js
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /assets/list-2d2bd903.js
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /assets/video-6bd9935a.js
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 01:58:05 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 01:58:06 |200|    0ms |       127.0.0.1 | GET   /assets/video-1988286b.js
+[AXUM] 2023-04-24 01:58:06 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 01:58:06 |200|   47ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:00:29 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:00:29 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 02:00:29 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 02:00:29 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 02:00:29 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 02:00:29 |200|    6ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /assets/index-288d27a3.js
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /assets/list-da45271c.js
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /assets/video-a685b8b7.js
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 02:00:30 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 02:00:32 |200|    0ms |       127.0.0.1 | GET   /assets/video-bead64cf.js
+[AXUM] 2023-04-24 02:00:32 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:00:32 |200|   50ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /assets/index-0664aadd.js
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /assets/list-8daa415e.js
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /assets/video-e7b902da.js
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 02:07:12 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:07:15 |200|    0ms |       127.0.0.1 | GET   /assets/video-e024cdb0.js
+[AXUM] 2023-04-24 02:07:15 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:07:15 |200|   48ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:07:17 |304|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:07:17 |304|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 02:07:17 |304|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:07:51 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:07:51 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 02:07:51 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 02:07:51 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 02:07:51 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 02:07:51 |200|    6ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 02:07:51 |200|    3ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:07:51 |206|    9ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/{10}--第10章runtime运行时-构建renderer渲染器/[10.10]--10-10框架实现：删除元素，ELEMENT节点的卸载操作.mp4
+[AXUM] 2023-04-24 02:07:51 |206|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/{10}--第10章runtime运行时-构建renderer渲染器/[10.10]--10-10框架实现：删除元素，ELEMENT节点的卸载操作.mp4
+[AXUM] 2023-04-24 02:10:18 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:10:18 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 02:10:18 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 02:10:18 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 02:10:18 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 02:10:18 |200|    8ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 02:10:19 |200|   48ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:10:19 |206|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/{10}--第10章runtime运行时-构建renderer渲染器/[10.10]--10-10框架实现：删除元素，ELEMENT节点的卸载操作.mp4
+[AXUM] 2023-04-24 02:10:19 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 02:10:19 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:10:22 |200|   18ms |       127.0.0.1 | GET   /assets/index-fbd820c6.js
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/video-d874c315.js
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:10:22 |200|   16ms |       127.0.0.1 | GET   /assets/video-648ab778.js
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:10:22 |200|   58ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:10:22 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/index-fbd820c6.js
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/video-d874c315.js
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/video-648ab778.js
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:10:22 |200|   50ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:10:22 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:10:23 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 02:10:24 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/2、课程体系总览-学习建议_02_(理解)前端知识体系介绍.mp4
+[AXUM] 2023-04-24 02:10:32 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-公开课/02、邂逅前端开发.mp4
+[AXUM] 2023-04-24 02:10:36 |206|    6ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/06、day01_软件开发-HTML结构-元素剖析_01_自我介绍和课前提醒【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:10:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/06、day01_软件开发-HTML结构-元素剖析_01_自我介绍和课前提醒【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:10:40 |304|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:10:40 |304|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /assets/index-9795e121.js
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /assets/video-bdd49273.js
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /assets/video-84508d4a.js
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:13:06 |200|   55ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:13:06 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:13:06 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00-学习建议/5、课程体系总览-学习建议_05_(掌握)学习方法-学习建议.mp4
+[AXUM] 2023-04-24 02:13:10 |206|   11ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00试看/1455--day80_React介绍-特点-基本使用-JSX语法_19_(理解)内容回顾和作业布置.mp4
+[AXUM] 2023-04-24 02:13:11 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00试看/1455--day80_React介绍-特点-基本使用-JSX语法_19_(理解)内容回顾和作业布置.mp4
+[AXUM] 2023-04-24 02:13:11 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:13:13 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/00试看/1455--day80_React介绍-特点-基本使用-JSX语法_19_(理解)内容回顾和作业布置.mp4
+[AXUM] 2023-04-24 02:13:15 |206|   14ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/08、day01_软件开发-HTML结构-元素剖析_03_(理解)应用体系划分和前端开发工程师【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:15 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/08、day01_软件开发-HTML结构-元素剖析_03_(理解)应用体系划分和前端开发工程师【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:17 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/08、day01_软件开发-HTML结构-元素剖析_03_(理解)应用体系划分和前端开发工程师【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:20 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/06、day01_软件开发-HTML结构-元素剖析_01_自我介绍和课前提醒【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:22 |206|   11ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/11.2、08_(掌握)网页的三大组成部分分析【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:22 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/11.2、08_(掌握)网页的三大组成部分分析【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:24 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/11.2、08_(掌握)网页的三大组成部分分析【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:26 |206|   11ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:26 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:13:28 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:21:05 |200|    1ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:21:05 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:21:08 |200|    1ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:21:08 |200|    0ms |       127.0.0.1 | GET   /assets/index-be1f02a8.js
+[AXUM] 2023-04-24 02:21:08 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:21:08 |200|    0ms |       127.0.0.1 | GET   /assets/video-5468af31.js
+[AXUM] 2023-04-24 02:21:08 |200|    0ms |       127.0.0.1 | GET   /assets/video-30746ffb.js
+[AXUM] 2023-04-24 02:21:08 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:21:09 |200|   60ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:21:09 |200|    1ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:21:09 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:21:09 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:32 |200|    1ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:22:32 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:22:32 |200|   16ms |       127.0.0.1 | GET   /assets/index-28c3db1a.js
+[AXUM] 2023-04-24 02:22:32 |200|    0ms |       127.0.0.1 | GET   /assets/video-1b1f6a91.js
+[AXUM] 2023-04-24 02:22:32 |200|    1ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:22:32 |200|   22ms |       127.0.0.1 | GET   /assets/video-1bc1d76a.js
+[AXUM] 2023-04-24 02:22:32 |200|   56ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:22:33 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:33 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/12、day01_软件开发-HTML结构-元素剖析_09_(掌握)Typora工具使用和内容回顾【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:41 |200|    4ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:22:41 |206|    5ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/14、day01_软件开发-HTML结构-元素剖析_11_(掌握)开发自己的第一个网页【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:41 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/14、day01_软件开发-HTML结构-元素剖析_11_(掌握)开发自己的第一个网页【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:45 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/14、day01_软件开发-HTML结构-元素剖析_11_(掌握)开发自己的第一个网页【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:47 |206|    9ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/19、day01_软件开发-HTML结构-元素剖析_16_(掌握)元素的嵌套和关系【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:47 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/19、day01_软件开发-HTML结构-元素剖析_16_(掌握)元素的嵌套和关系【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:22:59 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/19、day01_软件开发-HTML结构-元素剖析_16_(掌握)元素的嵌套和关系【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:23:17 |206|   13ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/21、day01_软件开发-HTML结构-元素剖析_18_(掌握)下午内容回顾和作业布置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:23:17 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/21、day01_软件开发-HTML结构-元素剖析_18_(掌握)下午内容回顾和作业布置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:23:52 |206|   13ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/16、day01_软件开发-HTML结构-元素剖析_13_(掌握)VSCode的安装-插件-配置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:23:55 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/16、day01_软件开发-HTML结构-元素剖析_13_(掌握)VSCode的安装-插件-配置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:03 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:24:06 |200|    0ms |       127.0.0.1 | GET   /assets/index-28c3db1a.js
+[AXUM] 2023-04-24 02:24:06 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:24:09 |200|    0ms |       127.0.0.1 | GET   /assets/video-1b1f6a91.js
+[AXUM] 2023-04-24 02:24:09 |200|    0ms |       127.0.0.1 | GET   /assets/video-1bc1d76a.js
+[AXUM] 2023-04-24 02:24:09 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:24:11 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:24:12 |200|   65ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:24:22 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:24:23 |200|    0ms |       127.0.0.1 | GET   /assets/index-28c3db1a.js
+[AXUM] 2023-04-24 02:24:23 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:24:24 |200|    0ms |       127.0.0.1 | GET   /assets/video-1b1f6a91.js
+[AXUM] 2023-04-24 02:24:24 |200|    0ms |       127.0.0.1 | GET   /assets/video-1bc1d76a.js
+[AXUM] 2023-04-24 02:24:24 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:24:24 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:24:25 |200|   56ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:24:31 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/16、day01_软件开发-HTML结构-元素剖析_13_(掌握)VSCode的安装-插件-配置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:32 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/16、day01_软件开发-HTML结构-元素剖析_13_(掌握)VSCode的安装-插件-配置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:32 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/16、day01_软件开发-HTML结构-元素剖析_13_(掌握)VSCode的安装-插件-配置【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:37 |206|    7ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:38 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:41 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:24:43 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:24:44 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:26:14 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:26:15 |200|    0ms |       127.0.0.1 | GET   /assets/index-e455ad1c.js
+[AXUM] 2023-04-24 02:26:15 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:26:16 |200|    0ms |       127.0.0.1 | GET   /assets/video-4250e282.js
+[AXUM] 2023-04-24 02:26:16 |200|    0ms |       127.0.0.1 | GET   /assets/video-2bac38e4.js
+[AXUM] 2023-04-24 02:26:16 |200|    1ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:26:16 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:26:17 |200|   66ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:26:23 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:26:24 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:26:26 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/01_软件开发-HTML结构-元素剖析/20、day01_软件开发-HTML结构-元素剖析_17_(掌握)注释的作用和HTML注释【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:26:29 |206|    5ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/22、day02_HTML结构-body元素-额外知识补充_01_(了解)内容概览和小技巧【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:26:30 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/22、day02_HTML结构-body元素-额外知识补充_01_(了解)内容概览和小技巧【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:26:33 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/22、day02_HTML结构-body元素-额外知识补充_01_(了解)内容概览和小技巧【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:27:00 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:27:00 |200|    0ms |       127.0.0.1 | GET   /assets/index-a3b08050.js
+[AXUM] 2023-04-24 02:27:00 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:27:01 |200|    0ms |       127.0.0.1 | GET   /assets/video-1981692a.js
+[AXUM] 2023-04-24 02:27:01 |200|    0ms |       127.0.0.1 | GET   /assets/video-d9eac54f.js
+[AXUM] 2023-04-24 02:27:01 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:27:02 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 02:27:02 |200|   69ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:27:08 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/22、day02_HTML结构-body元素-额外知识补充_01_(了解)内容概览和小技巧【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:27:09 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/22、day02_HTML结构-body元素-额外知识补充_01_(了解)内容概览和小技巧【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:27:44 |304|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:27:44 |304|    0ms |       127.0.0.1 | GET   /assets/index-a3b08050.js
+[AXUM] 2023-04-24 02:27:44 |304|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:27:45 |304|    0ms |       127.0.0.1 | GET   /assets/video-d9eac54f.js
+[AXUM] 2023-04-24 02:27:45 |304|    0ms |       127.0.0.1 | GET   /assets/video-1981692a.js
+[AXUM] 2023-04-24 02:27:45 |304|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:27:45 |200|   58ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:27:45 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/22、day02_HTML结构-body元素-额外知识补充_01_(了解)内容概览和小技巧【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 02:34:22 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:34:23 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 02:34:23 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:34:23 |200|   54ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:34:26 |206|    9ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/24、day02_HTML结构-body元素-额外知识补充_03_(掌握)文档声明和html元素【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:26 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/24、day02_HTML结构-body元素-额外知识补充_03_(掌握)文档声明和html元素【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:26 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/24、day02_HTML结构-body元素-额外知识补充_03_(掌握)文档声明和html元素【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:28 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/24、day02_HTML结构-body元素-额外知识补充_03_(掌握)文档声明和html元素【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:29 |206|    9ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:29 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:31 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:32 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:36 |206|    0ms |       127.0.0.1 | GET   /video/coderwhy前端体系课/01-HTML/02_HTML结构-body元素-额外知识补充/28、day02_HTML结构-body元素-额外知识补充_07_(掌握)img元素的两个属性和可替换性【海量一手：itwangzi.cn】.mp4
+[AXUM] 2023-04-24 02:34:45 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 02:34:47 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:34:51 |206|    9ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:51 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:54 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:34:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-6 实验：用telnet分析http协议的通讯过程.mp4
+[AXUM] 2023-04-24 02:35:01 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 02:35:03 |304|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 02:35:03 |304|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 02:35:03 |304|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 02:35:03 |304|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 02:35:03 |304|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 02:35:03 |304|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 02:35:03 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 02:35:08 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 02:35:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:45:08 |200|    6ms |   192.168.1.216 | GET   /
+[AXUM] 2023-04-24 10:45:09 |200|    3ms |   192.168.1.216 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 10:45:09 |200|   14ms |   192.168.1.216 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 10:45:09 |200|    3ms |   192.168.1.216 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 10:45:09 |200|   16ms |   192.168.1.216 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 10:45:09 |200|   13ms |   192.168.1.216 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 10:45:09 |200|    0ms |   192.168.1.216 | GET   /list
+[AXUM] 2023-04-24 10:45:09 |200|    4ms |   192.168.1.216 | GET   /favicon.ico
+[AXUM] 2023-04-24 10:45:09 |200|    6ms |   192.168.1.216 | GET   /icon/icon.png
+[AXUM] 2023-04-24 10:45:09 |200|   43ms |   192.168.1.216 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 10:45:09 |200|   67ms |   192.168.1.216 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 10:45:09 |200|   43ms |   192.168.1.216 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 10:45:09 |200|   59ms |   192.168.1.216 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 10:45:12 |200|    7ms |   192.168.1.216 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 10:45:12 |200|    7ms |   192.168.1.216 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 10:45:12 |200|    3ms |   192.168.1.216 | POST  /items
+[AXUM] 2023-04-24 10:45:13 |206|    7ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:45:13 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:45:13 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:45:19 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:47:03 |304|    0ms |   192.168.1.216 | GET   /
+[AXUM] 2023-04-24 10:47:03 |200|    3ms |   192.168.1.216 | POST  /items
+[AXUM] 2023-04-24 10:47:08 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:47:21 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:47:23 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:48:07 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:50:09 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:50:09 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:50:10 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:50:11 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:50:19 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /list
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /favicon.ico
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /icon/icon.png
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 10:52:09 |200|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 10:52:12 |200|    0ms |   192.168.1.216 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 10:52:12 |200|    0ms |   192.168.1.216 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 10:52:12 |200|    1ms |   192.168.1.216 | POST  /items
+[AXUM] 2023-04-24 10:52:12 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:12 |200|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:12 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:12 |200|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:15 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:15 |200|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:55 |200|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:55 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:55 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:52:55 |200|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:53:01 |200|    1ms |   192.168.1.216 | POST  /items
+[AXUM] 2023-04-24 10:53:02 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:53:02 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 10:59:08 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 10:59:35 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 10:59:35 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 10:59:35 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 10:59:35 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 10:59:36 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 10:59:41 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 10:59:41 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 10:59:41 |200|    4ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 10:59:41 |206|   69ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:41 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:41 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:48 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:49 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:49 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:53 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 10:59:53 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 10:59:56 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 10:59:56 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 10:59:56 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 10:59:56 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 10:59:56 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 10:59:56 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 11:01:17 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 11:01:17 |206|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/{10}--第10章nestjs服务端开发：接口开发/[10.12]--10-12查询进阶：queryBuilder及几种JOIN的学习.mp4
+[AXUM] 2023-04-24 11:01:18 |206|   53ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 11:01:18 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 11:01:18 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 11:01:21 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 11:01:25 |304|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 11:01:25 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 11:01:25 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 11:01:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:36:58 |304|    5ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 15:36:58 |304|   12ms |       127.0.0.1 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 15:36:58 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 15:36:59 |304|    4ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:36:59 |304|    4ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:37:31 |200|    6ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:37:31 |200|   16ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:37:31 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:37:31 |200|    0ms |       127.0.0.1 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 15:37:31 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 15:37:31 |200|   25ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:37:31 |200|    5ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:37:32 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 15:37:32 |200|    7ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 15:37:32 |200|    5ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 15:37:32 |200|    9ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 15:37:32 |200|    5ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 15:37:32 |200|    6ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 15:37:33 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:37:33 |200|    8ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:37:33 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:37:33 |206|    7ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:37 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:37:37 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:37:47 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:37:47 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:37:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:48 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:48 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:37:48 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-3 HTTP协议之基本认证.mp4
+[AXUM] 2023-04-24 15:38:00 |206|   68ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:01 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:38:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:14 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 15:38:17 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:38:17 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:38:17 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:38:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:38:22 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:38:23 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:39:00 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 15:39:00 |200|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 15:39:00 |200|    0ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 15:39:00 |200|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 15:39:00 |200|    0ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 15:39:00 |200|    0ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 15:39:02 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:39:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:39:07 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:39:17 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:39:17 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:39:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:39:18 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:39:34 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:39:34 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:39:34 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:39:34 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:39:34 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:39:34 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:39:34 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:39:34 |206|    4ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 15:39:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 15:39:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 15:39:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 15:47:35 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 15:47:36 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:47:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:47:39 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:47:39 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:47:39 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:39 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:47:41 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:47:41 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:47:41 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:47:42 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:47:42 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:47:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:47:43 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:47:43 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:47:43 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:47:56 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:47:56 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:47:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 15:48:04 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:48:04 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 15:48:04 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:50:46 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 15:51:12 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:51:12 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:51:12 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:51:15 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:51:15 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:51:46 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:51:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:51:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:51:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:12 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:38 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:52:38 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:38 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:38 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:52:41 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:53:00 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:53:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:53:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:53:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:53:25 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:53:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:53:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:53:51 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:54:18 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:54:31 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:54:31 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:55:03 |206|    1ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:55:05 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:55:06 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:55:07 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:55:08 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:55:49 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:25 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:33 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:36 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:36 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:37 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:37 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:42 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:43 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:43 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:47 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:48 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:48 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:50 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:50 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:51 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:51 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:54 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:54 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:56 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:56 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:58 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:58 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:57:59 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:57:59 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:58:01 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:01 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:58:01 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:01 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:58:04 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:04 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-4 HTTP中长连接与短连接.mp4
+[AXUM] 2023-04-24 15:58:10 |206|    8ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:10 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:10 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:12 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:23 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:23 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:25 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:25 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:26 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:28 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 15:58:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 15:58:37 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:34 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:06:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:36 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:06:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:37 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:06:37 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:38 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:06:38 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:48 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:06:48 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:06:53 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:06:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:04 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:04 |206|    1ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:05 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:05 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:06 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:06 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:06 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:06 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:07 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:07 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:11 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:11 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:13 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:13 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:13 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:19 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:07:19 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-5 HTTP中介之代理.mp4
+[AXUM] 2023-04-24 16:07:20 |206|    6ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:07:20 |206|    1ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:07:20 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:07:20 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:07:22 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:13:33 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:13:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:13:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:13:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:13:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:18:32 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:18:32 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:18:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:18:33 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:18:40 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:19:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:19:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:19:37 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:19:37 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第4章 HTTP渐相知--深入认识HTTP协议不为人知的特性和使用方法/4-6 HTTP中介之网关.mp4
+[AXUM] 2023-04-24 16:22:43 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:22:43 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:25:30 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:14 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:17 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:21 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:26 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:35 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:35 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:26:37 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 16:43:54 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:15:32 |200|    7ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 18:15:32 |200|    5ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 18:15:32 |200|   17ms |       127.0.0.1 | GET   /assets/index-034e953e.js
+[AXUM] 2023-04-24 18:15:32 |200|    5ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 18:15:32 |200|    8ms |       127.0.0.1 | GET   /assets/list-b44008a8.js
+[AXUM] 2023-04-24 18:15:32 |200|   15ms |       127.0.0.1 | GET   /assets/video-327d9a7a.js
+[AXUM] 2023-04-24 18:15:32 |200|    5ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 18:15:32 |200|    5ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:15:32 |200|    4ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 18:15:32 |200|    9ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 18:15:32 |200|    7ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 18:15:32 |200|    8ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 18:15:32 |200|    8ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 18:15:33 |200|    4ms |       127.0.0.1 | GET   /assets/video-ff30816a.css
+[AXUM] 2023-04-24 18:15:33 |200|    7ms |       127.0.0.1 | GET   /assets/video-91f0f62e.js
+[AXUM] 2023-04-24 18:15:34 |200|    7ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:15:34 |206|    5ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:15:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:15:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:15:34 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:16:19 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:17:09 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:17:46 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:21:06 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:22:32 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:22:34 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:22:57 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:23:05 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:23:55 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:24:42 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:24:53 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:25:02 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:25:03 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:25:32 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 18:25:33 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:25:34 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:25:42 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:25:49 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:01 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:02 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:03 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:12 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:13 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:16 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:16 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:18 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:26:58 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:27:08 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:29:11 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:38:49 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:42:19 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:48:33 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:49:44 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:49:53 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:50:08 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:51:12 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:51:25 |206|   35ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:35 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:51:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:36 |206|   67ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:51:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:51:36 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:51:39 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:39 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:51:40 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:28 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:30 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:30 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:35 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:35 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:40 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:40 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:40 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:43 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:52:45 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:52:45 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:52:45 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:52:57 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 18:52:57 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:52:57 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:52:58 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:52:58 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:52:58 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:52:58 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 18:53:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:53:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:53:00 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 18:53:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:53:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 18:53:04 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 19:23:53 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 19:23:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 19:23:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 19:23:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 19:23:54 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 19:33:13 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 19:33:26 |206|   65ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 19:33:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 19:33:27 |206|    8ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:33:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:33:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:02 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 19:40:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:06 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 19:40:06 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:06 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:22 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 19:40:22 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 19:40:22 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:20:20 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:20:20 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:20:20 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:20:20 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:42:49 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:42:49 |206|    5ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:42:49 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:27 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:28 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:29 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:40 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:40 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:40 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:42 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:43 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:43 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:43 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:47 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:47 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:49 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:49 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:49 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:50 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:50 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:50 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:52 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:44:52 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:44:52 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:45:17 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:45:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:45:17 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:24 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:24 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:24 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:24 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:27 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:28 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:28 |206|    1ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:44 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:46 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:47 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:51 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:51 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:51 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:53 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:53 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:54 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:54 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:54 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:54 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:59 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:46:59 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:46:59 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:03 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:10 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:10 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:10 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:10 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:10 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:10 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:14 |200|    2ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:14 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:14 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:19 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:19 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:19 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:22 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:22 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:38 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:38 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:38 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:47:43 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:47:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第3章 HTTP再邂逅--熟悉HTTP协议结构和通讯原理/3-2 详解URL与URI的区别与联系.mp4
+[AXUM] 2023-04-24 20:48:27 |206|   60ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:48:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:48:27 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:48:29 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:48:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:48:29 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:48:31 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:48:52 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:48:57 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:48:57 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:48:58 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:49:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:49:02 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:49:04 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:49:04 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:16 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:51:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:42 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:51:42 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:43 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:51:44 |206|    7ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-3 透过TCPIP看HTTP.mp4
+[AXUM] 2023-04-24 20:51:44 |206|    1ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-3 透过TCPIP看HTTP.mp4
+[AXUM] 2023-04-24 20:51:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-3 透过TCPIP看HTTP.mp4
+[AXUM] 2023-04-24 20:51:44 |206|    8ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:51:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:51:44 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:51:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:53:09 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:53:12 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:53:12 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:53:12 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:56:16 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:56:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:56:16 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:56:23 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:56:23 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:56:28 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:56:28 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:58:46 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:58:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:58:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:58:46 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:58:48 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:58:48 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:58:48 |206|    1ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-6 实验：与HTTP请求的第一次亲密接触.mp4
+[AXUM] 2023-04-24 20:58:55 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:58:55 |206|    4ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 20:58:55 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 20:58:55 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 20:58:57 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 20:58:57 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 20:58:58 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 20:58:59 |206|    4ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 20:58:59 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 20:58:59 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 20:59:01 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 20:59:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 20:59:03 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 20:59:07 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:59:07 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 20:59:32 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 21:00:05 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-2 HTTP协议的前世今生.mp4
+[AXUM] 2023-04-24 21:11:40 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:11:40 |200|    0ms |       127.0.0.1 | GET   /assets/index-1121b0ad.js
+[AXUM] 2023-04-24 21:11:40 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 21:11:44 |304|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:11:48 |304|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 21:11:59 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:11:59 |200|    0ms |       127.0.0.1 | GET   /assets/index-1121b0ad.js
+[AXUM] 2023-04-24 21:11:59 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 21:12:00 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 21:16:16 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:16:16 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 21:16:16 |200|    0ms |       127.0.0.1 | GET   /assets/video-25c6987f.css
+[AXUM] 2023-04-24 21:16:16 |200|   18ms |       127.0.0.1 | GET   /assets/index-1121b0ad.js
+[AXUM] 2023-04-24 21:16:16 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 21:16:19 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:16:19 |200|    0ms |       127.0.0.1 | GET   /assets/index-1121b0ad.js
+[AXUM] 2023-04-24 21:16:19 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 21:16:19 |200|    0ms |       127.0.0.1 | GET   /assets/video-25c6987f.css
+[AXUM] 2023-04-24 21:16:19 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 21:16:46 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:16:46 |200|    0ms |       127.0.0.1 | GET   /assets/index-1121b0ad.js
+[AXUM] 2023-04-24 21:16:46 |200|    0ms |       127.0.0.1 | GET   /assets/index-2eafa77e.css
+[AXUM] 2023-04-24 21:16:46 |200|    0ms |       127.0.0.1 | GET   /assets/video-25c6987f.css
+[AXUM] 2023-04-24 21:16:46 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /assets/index-1a5e1905.js
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /assets/index-e0b96a67.css
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /assets/list-45655d3b.js
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /assets/video-eee26ae5.js
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 21:23:17 |200|    0ms |       127.0.0.1 | GET   /list
+[AXUM] 2023-04-24 21:23:17 |304|    0ms |       127.0.0.1 | GET   /icon/icon.png
+[AXUM] 2023-04-24 21:23:17 |304|    5ms |       127.0.0.1 | GET   /video/大话HTTP协议/icon.png
+[AXUM] 2023-04-24 21:23:17 |304|    7ms |       127.0.0.1 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 21:23:17 |304|    8ms |       127.0.0.1 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 21:23:17 |304|    9ms |       127.0.0.1 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 21:23:21 |304|    0ms |       127.0.0.1 | GET   /assets/index-e0b96a67.css
+[AXUM] 2023-04-24 21:23:21 |304|    0ms |       127.0.0.1 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 21:23:23 |200|    0ms |       127.0.0.1 | GET   /assets/video-dd3a31e8.css
+[AXUM] 2023-04-24 21:23:23 |200|    0ms |       127.0.0.1 | GET   /assets/video-ed25fdc7.js
+[AXUM] 2023-04-24 21:23:23 |200|    1ms |       127.0.0.1 | POST  /items
+[AXUM] 2023-04-24 21:23:23 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 21:23:23 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 21:23:23 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 21:23:23 |200|    0ms |       127.0.0.1 | GET   /favicon.ico
+[AXUM] 2023-04-24 21:23:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 21:23:26 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 21:23:30 |206|    4ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 21:23:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 21:23:30 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 21:23:31 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 21:23:31 |206|    0ms |       127.0.0.1 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-4 “你是如何访问慕课的”--DNS域名解析.mp4
+[AXUM] 2023-04-24 21:57:07 |200|   22ms |   192.168.1.216 | GET   /
+[AXUM] 2023-04-24 22:02:33 |200|    0ms |   192.168.1.216 | GET   /
+[AXUM] 2023-04-24 22:02:34 |200|    0ms |   192.168.1.216 | GET   /assets/index-1a5e1905.js
+[AXUM] 2023-04-24 22:02:34 |200|    0ms |   192.168.1.216 | GET   /assets/index-e0b96a67.css
+[AXUM] 2023-04-24 22:02:34 |200|    0ms |   192.168.1.216 | GET   /assets/list-fc8a65d0.css
+[AXUM] 2023-04-24 22:02:34 |200|    0ms |   192.168.1.216 | GET   /assets/list-45655d3b.js
+[AXUM] 2023-04-24 22:02:34 |200|    0ms |   192.168.1.216 | GET   /assets/video-eee26ae5.js
+[AXUM] 2023-04-24 22:02:34 |200|    0ms |   192.168.1.216 | GET   /list
+[AXUM] 2023-04-24 22:02:35 |304|    0ms |   192.168.1.216 | GET   /video/mksz608-Vue3源码解析，打造自己的Vue3框架，领悟尤大思维精髓【17章完结】/icon.png
+[AXUM] 2023-04-24 22:02:35 |304|    0ms |   192.168.1.216 | GET   /video/NestJS入门到实战前端必学服务端新趋势【完结】/icon.png
+[AXUM] 2023-04-24 22:02:35 |304|    0ms |   192.168.1.216 | GET   /icon/icon.png
+[AXUM] 2023-04-24 22:02:35 |304|    0ms |   192.168.1.216 | GET   /video/慕课网-算法与数据结构体系课（MP4）【更多it教程联系微信 itwangzi】/icon.png
+[AXUM] 2023-04-24 22:06:44 |200|    0ms |   192.168.1.216 | GET   /assets/video-dd3a31e8.css
+[AXUM] 2023-04-24 22:06:44 |200|    0ms |   192.168.1.216 | GET   /assets/video-ed25fdc7.js
+[AXUM] 2023-04-24 22:06:45 |200|    1ms |   192.168.1.216 | POST  /items
+[AXUM] 2023-04-24 22:06:45 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 22:06:45 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 22:06:45 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 22:08:47 |206|    4ms |   192.168.1.216 | GET   /video/大话HTTP协议/第1章 课程介绍【整体介绍http的恋爱路线】/1-1 课程整体介绍.mp4
+[AXUM] 2023-04-24 22:12:11 |206|    4ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:12:11 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:12:11 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:12:36 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:12:40 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:14:01 |206|    1ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:19:46 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:19:49 |200|    0ms |   192.168.1.216 | GET   /
+[AXUM] 2023-04-24 22:19:49 |200|    0ms |   192.168.1.216 | GET   /assets/index-245bfb5e.js
+[AXUM] 2023-04-24 22:19:49 |200|    9ms |   192.168.1.216 | GET   /assets/index-e0b96a67.css
+[AXUM] 2023-04-24 22:19:49 |200|    0ms |   192.168.1.216 | GET   /assets/video-4f1fd7ce.js
+[AXUM] 2023-04-24 22:19:49 |200|    0ms |   192.168.1.216 | GET   /assets/video-a15dbd40.js
+[AXUM] 2023-04-24 22:19:49 |200|    0ms |   192.168.1.216 | GET   /assets/video-d6b99e6c.css
+[AXUM] 2023-04-24 22:19:49 |200|    1ms |   192.168.1.216 | POST  /items
+[AXUM] 2023-04-24 22:19:49 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:19:49 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:19:50 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4
+[AXUM] 2023-04-24 22:21:06 |206|    0ms |   192.168.1.216 | GET   /video/大话HTTP协议/第2章 HTTP初相识--了解HTTP协议/2-1 浏览器背后的故事.mp4

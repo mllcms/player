@@ -94,8 +94,10 @@ pub async fn logger<B>(
 
     // 是否重定向
     if let Some(p) = res.headers().get(LOCATION) {
-        let p = p.to_str().unwrap().as_bytes();
-        path = format!("{path} -> {}", percent_decode(p).decode_utf8_lossy())
+        path = format!(
+            "{path} -> {}",
+            percent_decode(p.as_bytes()).decode_utf8_lossy()
+        )
     }
 
     LogFile::write(
